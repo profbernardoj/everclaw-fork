@@ -15,7 +15,7 @@ import path from "node:path";
 
 const CONFIG = {
   ownerName: "Agent Owner", // Your name
-  timezone: "America/Chicago", // Your timezone
+  timezone: "YOUR_TIMEZONE", // Your timezone
 };
 
 // ─── Paths ──────────────────────────────────────────────────────────────────
